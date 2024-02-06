@@ -14,31 +14,23 @@ Data Analysis: Proficient in statistical analysis, data cleansing, and visualiza
 **Data Visualization**: Skilled in creating compelling visualizations using tools like Tableau https://public.tableau.com/app/profile/naji.idriss/vizzes to communicate insights effectively.
 
 Business Intelligence: Developed and implemented BI solutions to empower stakeholders with data-driven decision-making capabilities.
-Professional Experience:
-[Current/Previous Job Title] - [Current/Previous Company]
-
-Led a team in analyzing customer behavior data, resulting in a 15% increase in customer retention.
-Implemented predictive analytics models that reduced operational costs by optimizing resource allocation.
-[Previous Job Title] - [Previous Company]
 
 Conducted A/B testing on marketing campaigns, leading to a 20% improvement in conversion rates.
 Collaborated with cross-functional teams to develop key performance indicators (KPIs) and dashboards.
 Education:
-[Degree Earned] - [University Name], [Year of Graduation]
+[Google Business Intelligence(https://www.coursera.org/account/accomplishments/specialization/ZGV7VTZ3P7X5)] - [2024]
 
-Relevant coursework: [List specific courses related to data analytics]
+Relevant coursework: 
 Certifications:
-[Certification Name] - [Issuing Body], [Year Obtained]
-[Certification Name] - [Issuing Body], [Year Obtained]
+Google Data Analytics - 2023
+Google Advanced Data Analytics - 2023
 Technical Skills:
 Programming Languages: Python, R, SQL
-Tools & Technologies: Tableau, Power BI, Hadoop, Spark
+Tools & Technologies: Tableau, Power BI, BigQuery
 Machine Learning: Regression, Classification, Clustering
 Data Manipulation: Pandas, NumPy, SQL
-Achievements:
-Recognized for outstanding contributions in [specific project/task].
-Published [number] articles on data analytics trends in [industry publications].
+
+
 Contact Information:
-Email: [Your Email Address]
-LinkedIn: [Your LinkedIn Profile]
-Phone: [Your Phone Number]
+LinkedIn: [[[Your LinkedIn Profile]](https://www.linkedin.com/in/naji-idriss-9b750916/)](https://www.linkedin.com/in/naji-idriss-9b750916/)https://www.linkedin.com/in/naji-idriss-9b750916/
+
