@@ -23,7 +23,8 @@ Education:
 Relevant coursework: 
 Certifications:
 Google Data Analytics - 2023 ([https://www.coursera.org/programs/lebanon-oxdvb/professional-certificates/google-data-analytics](https://www.coursera.org/account/accomplishments/professional-cert/Y2Z4QAMA3AFG))
-Google Advanced Data Analytics - 2023 (C:/To%20lenovo/Baramej_Courses/coursera/Certificates/Google%20Advanced%20Data%20Anallytics/Google%20Advanced%20Data%20Anallytics.pdf)
+
+Google Advanced Data Analytics - 2023 (https://www.coursera.org/account/accomplishments/professional-cert/BG7J7CXHQFZV)
 Technical Skills:
 Programming Languages: Python, R, SQL
 Tools & Technologies: Tableau, Power BI, BigQuery
