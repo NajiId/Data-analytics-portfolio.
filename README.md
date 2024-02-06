@@ -32,5 +32,5 @@ Data Manipulation: Pandas, NumPy, SQL
 
 
 Contact Information:
-LinkedIn: [[[Your LinkedIn Profile]](https://www.linkedin.com/in/naji-idriss-9b750916/)](https://www.linkedin.com/in/naji-idriss-9b750916/)https://www.linkedin.com/in/naji-idriss-9b750916/
+LinkedIn: https://www.linkedin.com/in/naji-idriss-9b750916/
 
