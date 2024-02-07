@@ -19,7 +19,7 @@ Experienced in working with big data platforms such as BigQuery, handling large-
 
 
 #### **Data Visualization**: 
-Skilled in creating compelling visualizations using tools like Tableau https://public.tableau.com/app/profile/naji.idriss/vizzes to communicate insights effectively.
+Skilled in creating compelling visualizations using tools like [Tableau](https://public.tableau.com/app/profile/naji.idriss/vizzes) to communicate insights effectively.
 
 #### Business Intelligence: 
 Developed and implemented BI solutions to empower stakeholders with data-driven decision-making capabilities.
@@ -28,20 +28,20 @@ Developed and implemented BI solutions to empower stakeholders with data-driven 
 Collaborated with cross-functional teams to develop key performance indicators (KPIs) and dashboards.
 
 Education:
-Google Business Intelligence(https://www.coursera.org/account/accomplishments/specialization/ZGV7VTZ3P7X5) - 2024
-
 
 #### Certifications:
-Google Data Analytics - 2023 (https://www.coursera.org/programs/lebanon-oxdvb/professional-certificates/google-data-analytics(https://www.coursera.org/account/accomplishments/professional-cert/Y2Z4QAMA3AFG))
+[Google Data Analytics](https://www.coursera.org/programs/lebanon-oxdvb/professional-certificates/google-data-analytics) - 2023 
 
-Google Advanced Data Analytics - 2023 (https://www.coursera.org/account/accomplishments/professional-cert/BG7J7CXHQFZV)
+[Google Advanced Data Analytics](https://www.coursera.org/account/accomplishments/professional-cert/BG7J7CXHQFZV) - 2023
+
 Technical Skills:
 Programming Languages: Python, R, SQL
 Tools & Technologies: Tableau, Power BI, BigQuery
 Machine Learning: Regression, Classification, Clustering
 Data Manipulation: Pandas, NumPy, SQL
 
+[Google Business Intelligence](https://www.coursera.org/account/accomplishments/specialization/ZGV7VTZ3P7X5) - 2024
 
 #### Contact Information:
-LinkedIn: https://www.linkedin.com/in/naji-idriss-9b750916/
+LinkedIn: [Naji Idriss Linkedin Account](https://www.linkedin.com/in/naji-idriss-9b750916/)
 
